@@ -4,8 +4,8 @@ This contains all the necessary files to implement a TINY(4x8x3) Neural Network 
 
 Change the path for storage of generated .mem files in gen.py
 
-FPGA Board Used: Artix-7 AC701 Evaluation Platform & Basys3
-LUT's & FF's Utilised: 612 & 382
-Acceleration over local CPU: 871x
-WNS:0.35, TNS: 5.5, WHS: 0.21, THS: 0
+FPGA Board Used: Artix-7 AC701 Evaluation Platform & Basys3 \
+LUT's & FF's Utilised: 612 & 382 \
+Acceleration over local CPU: 871x \
+WNS:0.35, TNS: 5.5, WHS: 0.21, THS: 0 \
 
